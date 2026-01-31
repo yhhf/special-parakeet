@@ -1,0 +1,8 @@
+
+{
+  "name": "LogisArchiv IA",
+  "description": "Système d'archivage intelligent pour la logistique utilisant l'IA pour l'OCR, la classification automatique et la recherche sémantique des documents de transport.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
